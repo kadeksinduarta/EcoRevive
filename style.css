@@ -138,8 +138,7 @@ a {
 /* HERO SECTION */
 .hero-section {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
-    url("https://via.placeholder.com/1500x700?text=Vibrant+Bali+Background+or+TPS3R+Facility")
-      no-repeat center center/cover;
+    url("gambar/Desa_selat.png") no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 150px 20px;
