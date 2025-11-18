@@ -138,7 +138,7 @@ a {
 /* HERO SECTION */
 .hero-section {
   background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.6)),
-    url("gambar/Desa_selat.png") no-repeat center center/cover;
+    url("gambar/Desa_selat.jpg") no-repeat center center/cover;
   color: white;
   text-align: center;
   padding: 150px 20px;
